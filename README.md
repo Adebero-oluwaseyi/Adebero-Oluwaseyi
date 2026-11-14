@@ -18,6 +18,4 @@ Most of my time goes into designing APIs, writing concurrent workers, and buildi
 #### Get in touch
 I'm always down to talk about Go, backend engineering, or collaborate on interesting projects.
 
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- **X (Twitter):** [@YOUR_HANDLE](https://x.com)
 - **Email:** [adeberooluwaseyi@gmail.com](mailto:adeberooluwaseyi@gmail.com)
